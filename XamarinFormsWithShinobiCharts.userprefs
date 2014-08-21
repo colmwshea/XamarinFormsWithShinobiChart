@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.4df783cd0fb03073" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Android\ChartViewRenderer.cs">
+    <Files>
+      <File FileName="XamarinFormsWithShinobiCharts\ChartPage.cs" Line="1" Column="1" />
+      <File FileName="Android\ChartViewRenderer.cs" Line="29" Column="3" />
+      <File FileName="XamarinFormsWithShinobiCharts\App.cs" Line="1" Column="1" />
+      <File FileName="Android\MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

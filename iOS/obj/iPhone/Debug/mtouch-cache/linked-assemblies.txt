@@ -1,0 +1,11 @@
+/Users/jogorman/Projects/XamarinFormsWithShinobiCharts/iOS/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/jogorman/Projects/XamarinFormsWithShinobiCharts/iOS/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+/Users/jogorman/Projects/XamarinFormsWithShinobiCharts/iOS/obj/iPhone/Debug/mtouch-cache/Link/XamarinFormsWithShinobiCharts.dll
+/Users/jogorman/Projects/XamarinFormsWithShinobiCharts/iOS/obj/iPhone/Debug/mtouch-cache/Link/System.Core.dll
+/Users/jogorman/Projects/XamarinFormsWithShinobiCharts/iOS/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/jogorman/Projects/XamarinFormsWithShinobiCharts/iOS/obj/iPhone/Debug/mtouch-cache/Link/XamarinFormsWithShinobiChartsiOS.exe
+/Users/jogorman/Projects/XamarinFormsWithShinobiCharts/iOS/obj/iPhone/Debug/mtouch-cache/Link/ShinobiCharts.dll
+/Users/jogorman/Projects/XamarinFormsWithShinobiCharts/iOS/obj/iPhone/Debug/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll
+/Users/jogorman/Projects/XamarinFormsWithShinobiCharts/iOS/obj/iPhone/Debug/mtouch-cache/Link/System.Net.Http.dll
+/Users/jogorman/Projects/XamarinFormsWithShinobiCharts/iOS/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.Forms.Core.dll
+/Users/jogorman/Projects/XamarinFormsWithShinobiCharts/iOS/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll

@@ -1,0 +1,7 @@
+/Users/jogorman/Projects/XamarinFormsWithShinobiCharts/XamarinFormsWithShinobiCharts/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/jogorman/Projects/XamarinFormsWithShinobiCharts/XamarinFormsWithShinobiCharts/bin/Debug/Xamarin.Forms.Core.dll
+/Users/jogorman/Projects/XamarinFormsWithShinobiCharts/XamarinFormsWithShinobiCharts/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/jogorman/Projects/XamarinFormsWithShinobiCharts/XamarinFormsWithShinobiCharts/bin/Debug/XamarinFormsWithShinobiCharts.dll.mdb
+/Users/jogorman/Projects/XamarinFormsWithShinobiCharts/XamarinFormsWithShinobiCharts/bin/Debug/XamarinFormsWithShinobiCharts.dll
+/Users/jogorman/Projects/XamarinFormsWithShinobiCharts/XamarinFormsWithShinobiCharts/obj/Debug/XamarinFormsWithShinobiCharts.dll
+/Users/jogorman/Projects/XamarinFormsWithShinobiCharts/XamarinFormsWithShinobiCharts/obj/Debug/XamarinFormsWithShinobiCharts.dll.mdb
